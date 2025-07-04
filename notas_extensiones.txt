@@ -1,0 +1,3 @@
+extensiones a intalar en vs code
+- SQLite Viewer
+-SQLite3 editor
